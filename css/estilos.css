@@ -1,0 +1,68 @@
+.logo {
+  display: flex;
+  justify-content: center; }
+
+.fondo1 {
+  display: flex;
+  justify-content: center; }
+
+#pro {
+  background-color: #fcf3cf; }
+
+.pro {
+  background-color: #fcf3cf; }
+
+.thumbnail {
+  color: #333330; }
+
+.btn-primary {
+  background-color: #333330; }
+
+.p1 {
+  text-align: center;
+  font-size: 15px; }
+
+.p2 {
+  text-align: center;
+  font-size: 20px; }
+
+#carr {
+  display: block;
+  margin: auto;
+  padding: 10px; }
+
+.crrImg {
+  display: block;
+  margin: auto;
+  padding: 20px; }
+
+#carousel-example-generic {
+  width: 50%;
+  display: block;
+  margin: auto;
+  background-color: #fcf3cf; }
+
+.thumbnail {
+  background-color: #fcf3cf;
+  border-radius: #fcf3cf;
+  width: 80%;
+  display: block;
+  margin: auto; }
+
+.form-inline {
+  text-align: center;
+  padding: 30px; }
+
+.mapa {
+  text-align: center; }
+
+.section__titulo {
+  color: #333330;
+  font-size: 25px;
+  text-align: center; }
+
+.section__nav__menu {
+  display: flex; }
+  .section__nav__menu__lista {
+    list-style: none;
+    padding: 10px; }

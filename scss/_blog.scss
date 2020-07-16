@@ -1,0 +1,29 @@
+
+.section{
+
+    &__titulo{
+          color: $colordos;
+          font-size: 25px;
+          text-align: center;
+         
+          
+          
+    }
+
+    &__nav{
+
+        
+            &__menu{
+                display:flex;
+                
+                
+
+            &__lista{
+                list-style: none;
+                padding: 10px;
+            }
+            }
+  }
+  }
+
+
